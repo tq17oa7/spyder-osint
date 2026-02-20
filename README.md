@@ -24,19 +24,19 @@
 - Git
 
 ##**A note for Windows and macOS users:** 
-Use the instructions below for Windows and Linux; macOS users can utilize the [DMG file](../../releases).
+For Windows and Linux, follow the instructions; macOS users can use the [DMG file](../../releases).
 
 
 
 
 
-Ensure these are installed: Git, Python.
+Windows preparation: Git and Python installation.
 
 https://git-scm.com/install/windows  
 
 https://www.python.org/ftp/python/3.13.12/python-3.13.12-amd64.exe  
 
-Open GIT CMD.
+Launch GIT CMD.
 
 
 
